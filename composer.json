@@ -1,0 +1,22 @@
+{
+    "name": "blendhtml/doctrine",
+    "autoload": {
+        "psr-4": {
+            "Blendhtml\\Doctrine\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Philipp Nikolajev",
+            "email": "it-consulting@nikolajev.ee",
+            "homepage": "https://nikolajev.ee",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "symfony/cache": "^7.4",
+        "doctrine/orm": "^3.6",
+        "doctrine/dbal": "^4.4",
+        "doctrine/migrations": "^3.9"
+    }
+}
