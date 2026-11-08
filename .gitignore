@@ -1,3 +1,4 @@
 /.idea/
 /vendor/
-/git-push.sh
+/_scripts/
+/_ai/_scripts/
